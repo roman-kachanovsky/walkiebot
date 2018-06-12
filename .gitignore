@@ -51,6 +51,7 @@ walkie-moji/
 .DS_store
 
 local.json
+.env
 
 server/assets.json
 
